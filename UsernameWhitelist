@@ -1,6 +1,6 @@
 local Players = game.Players
 local LocalPlayer = Players.LocalPlayer
-local Whitelisted = {"ROBLOX","Builderman","username"}
+local Whitelisted = {"ROBLOX","Builderman","omarahmedomarahmed0"}
 -- Secret Whitelist Stuff
 local tFupCXWQXYribv0PS9Wy = {}
 tFupCXWQXYribv0PS9Wy.wtu34sA66Mek1WwdBtrh = {
